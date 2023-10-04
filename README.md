@@ -7,6 +7,6 @@ Este repositório está sendo criado de acordo com o desafio proposto no bootcam
 
 ### 🔗**Links Úteis** ✔
 
-🐱‍👤[Curso - Versionamento de Código com Git e Github](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/f3cbaa66-efbd-4c25-842e-2069c188c066?back=/track/potencia-tech-ifood-desenvolvimento-de-jogos&tab=undefined&moduleId=undefined)
-👨‍💻[Bootcamp - Potência Tech iFood - Desenvolvimento de Jogos](https://web.dio.me/track/potencia-tech-ifood-desenvolvimento-de-jogos)
+🐱‍👤[Curso - Versionamento de Código com Git e Github](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/f3cbaa66-efbd-4c25-842e-2069c188c066?back=/track/potencia-tech-ifood-desenvolvimento-de-jogos&tab=undefined&moduleId=undefined)  
+👨‍💻[Bootcamp - Potência Tech iFood - Desenvolvimento de Jogos](https://web.dio.me/track/potencia-tech-ifood-desenvolvimento-de-jogos)  
 ▶[LinkedIn](https://www.linkedin.com/in/joaopedromedeiros)
